@@ -1,0 +1,9 @@
+Document 1 has a positive sentiment
+Document 2 has a positive sentiment
+Document 3 has a positive sentiment
+Document 4 has a positive sentiment
+Document 5 has a positive sentiment
+Document 6 has a negative sentiment
+Document 7 has a negative sentiment
+Document 8 has a negative sentiment
+Document 9 has a negative sentiment
