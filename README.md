@@ -24,10 +24,14 @@ Explore various features of the project, including detailed functionalities of e
 ## Code Snippets
 Dive into interesting parts of the project's code, highlighting key functionalities and techniques used, from array manipulation to sorting keys by values.
 
+**Contributions:**
+- [Barbara Riga](https://github.com/BarbaraRiga)
+- [Thanos Panou](https://github.com/Thanospa2002)
+
 ## [License](LICENSE)
 The project is licensed under the [GNU General Public License v3.0](LICENSE).
 
-## [PDF Version](VersatileCodeLab.pdf)
+## [PDF Version](https://github.com/CodeMaestro1/VersatileCodeLab/blob/main/VersatileCodeLab.pdf)
 Download the PDF version of this README file for offline reference.
 
 ## Conclusion
